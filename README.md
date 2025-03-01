@@ -1,0 +1,2 @@
+# Smart Eye Control
+ SmartEyeControl: Face Recognition and Eye-Tracking for Cursor Control EyeControl is a Python-based application that uses face recognition and eye-tracking to control the computer cursor. It includes features like handwriting recognition, a customizable taskbar, and integration with Click2Speak for accessibility. Built with dlib, mediapipe, TensorFlow, and PyQt5, this project is designed to assist users with limited mobility.
